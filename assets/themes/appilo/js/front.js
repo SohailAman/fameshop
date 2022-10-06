@@ -1,0 +1,1 @@
+$=jQuery;$(document).ready(function(){$('div.57b9f88 .odometer-inside').append('M');$('div.6e5423d .odometer-inside').append('M');});

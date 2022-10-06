@@ -1,0 +1,1933 @@
+html {
+    width: 100vw;
+    overflow-x: hidden !important;
+}
+
+/* "topapp-font-css */
+/* vietnamese */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlnC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlmC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzloC_U.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlnC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlmC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzloC_U.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlnC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlmC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzloC_U.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlnC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzlmC_W6EQ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/dosis/v27/HhyaU5sn9vOmLzloC_U.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzI.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+/* greek */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+/* vietnamese */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*  */
+i.bg-service-icon.bg-fans {
+    background: url(../../uploads/2021/04/followers-1.png) !important;
+    background-size: cover !important;
+    border-radius: 100%
+}
+
+i.bg-service-icon.bg-views {
+    background: url(../../uploads/2021/04/play.png) !important;
+    background-size: cover !important;
+    border-radius: 100%
+}
+
+i.bg-service-icon.bg-likes {
+    background: url(../../uploads/2021/04/likes.png) !important;
+    background-size: cover !important;
+    border-radius: 100%
+}
+
+i.bg-service-icon.bg-share {
+    background: url(../../uploads/2021/04/shares.png) !important;
+    background-size: cover !important;
+    border-radius: 100%
+}
+
+.ei-newslatter-mockup,
+.ei-banner-mbl-mockup,
+.ei-feature-shape,
+.fn-shape.fn-shape-item1,
+.s-shape-bg1,
+.s-shape-bg2.text-center {
+    display: none !important
+}
+
+.wpcf7 form.sent .wpcf7-response-output {
+    background-color: #46b450
+}
+
+.page-id-40 form div.inputGroup:nth-child(2) label img {
+    width: 300px
+}
+
+img.checkout-form__payment-icon {
+    max-width: 40px
+}
+
+.ei-footer-copyright .ei-footer-copyright-content {
+    border: none !important
+}
+
+span.wpcf7-not-valid-tip {
+    color: #dc3232 !important;
+    background: #fff !important;
+    padding: 3px;
+    border-radius: 30px
+}
+
+input.wpcf7-form-control.wpcf7-submit:hover,
+input.wpcf7-form-control.wpcf7-submit:active,
+input.wpcf7-form-control.wpcf7-submit:focus {
+    color: #fff !important
+}
+
+#delete_me {
+    padding-top: 450px
+}
+
+#delete_me .container {
+    display: none !important
+}
+
+#delet_eme .eight-banner-content {
+    display: none
+}
+
+.ei-preloader {
+    display: none
+}
+
+.ei-scrollup {
+    z-index: 10 !important
+}
+
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output {
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(173deg, #ff03d0 0%, #4599fb 53%, #0982ca 99%);
+    background-image: -ms-linear-gradient(173deg, #ff03d0 0%, #4599fb 53%, #70fcff 99%);
+    padding-left: 15px
+}
+
+.main-header-eight .appheader-content .navigation-eight {
+    float: right !important;
+    top: -40px;
+    position: relative
+}
+
+header#header-eight {
+    height: 80px;
+    z-index: 99
+}
+
+b,
+strong {
+    color: #000 !important
+}
+
+.checkout-service b {
+    color: #444 !important
+}
+
+.main-header-eight.eisticky-menu-bg-overlay {
+    top: 0 !important;
+    position: fixed
+}
+
+.app-eight-home .relative-position {
+    top: -38px;
+    position: relative
+}
+
+.eight-important-white {
+    background-color: #fff !important
+}
+
+.ei-footer-section {
+    padding-top: 60px !important;
+    z-index: 0;
+    min-height: 240px !important
+}
+
+.topapp-main h4 {
+    font-size: 22px;
+    color: #000;
+    font-weight: 600;
+    line-height: 3
+}
+
+.topapp-main h2 {
+    font-size: 30px !important;
+    font-weight: 600;
+    color: #000;
+    line-height: 3
+}
+
+.ei-copyright-text {
+    display: none
+}
+
+h3#order_review_heading {
+    display: none
+}
+
+select#isbankpospay-card-expiry-year {
+    height: 45px !important;
+    margin-bottom: 15px
+}
+
+select#isbankpospay-card-expiry-month {
+    height: 45px !important;
+    margin-bottom: 15px
+}
+
+input#isbankpospay-card-cvc {
+    margin-left: 0 !important
+}
+
+div#payment {
+    position: absolute;
+    left: 0;
+    top: 260px;
+    max-width: 46.5%
+}
+
+form.checkout.woocommerce-checkout {
+    position: relative;
+    min-height: 1200px;
+    height: auto
+}
+
+body.woocommerce-checkout #payment ul.payment_methods li input {
+    float: left;
+    margin-top: 7px !important
+}
+
+body.woocommerce-checkout #payment .coinbase-icon {
+    display: block;
+    margin-left: 18px
+}
+
+#add_payment_method #payment ul.payment_methods,
+.woocommerce-cart #payment ul.payment_methods,
+.woocommerce-checkout #payment ul.payment_methods {
+    background-color: #fff;
+    border: none !important
+}
+
+.form-row.place-order {
+    background-color: #fff;
+    border: none
+}
+
+#add_payment_method #payment div.payment_box,
+.woocommerce-cart #payment div.payment_box,
+.woocommerce-checkout #payment div.payment_box {
+    background-color: #f1f1f1 !important;
+    border-radius: 10px
+}
+
+#add_payment_method #payment div.payment_box:before,
+.woocommerce-cart #payment div.payment_box:before,
+.woocommerce-checkout #payment div.payment_box:before {
+    border: 1em solid #f1f1f1 !important;
+    border-right-color: transparent !important;
+    border-left-color: transparent !important;
+    border-top-color: transparent !important
+}
+
+#add_payment_method #payment,
+.woocommerce-cart #payment,
+.woocommerce-checkout #payment {
+    background: #fff;
+    border-radius: 5px
+}
+
+input#isbankpospay-card-number {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #dfdfdf;
+    height: 45px
+}
+
+select#isbankpospay-card-expiry-month {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #dfdfdf
+}
+
+select#isbankpospay-card-expiry-year {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #dfdfdf
+}
+
+input#isbankpospay-card-cvc {
+    font-size: 14px !important;
+    height: 45px;
+    border: none;
+    background-color: #fff;
+    padding: 12px !important;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #dfdfdf
+}
+
+body .woocommerce .checkout_coupon.woocommerce-form-coupon button {
+    background: #9c0be2 !important
+}
+
+body .woocommerce .checkout_coupon.woocommerce-form-coupon button:hover {
+    color: #fff
+}
+
+input#billing_email,
+input#billing_postcode {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #dfdfdf;
+    height: 45px
+}
+
+.topapp-main h3 {
+    font-size: 34px;
+    color: #000;
+    font-size: 32px !important;
+    margin-bottom: 10px !important
+}
+
+.woocommerce-checkout #order_review_heading,
+.woocommerce-checkout #order_review {
+    background: #fff;
+    width: 47.8260869565%;
+    float: right;
+    margin-right: 0;
+    padding-top: 34px;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 0 15px #e0e0e0;
+    border-radius: 20px
+}
+
+.woocommerce-cart .woocommerce table.shop_table,
+.woocommerce-checkout .woocommerce table.shop_table {
+    border: none !important
+}
+
+.woocommerce-checkout-review-order-table th {
+    color: #000 !important
+}
+
+body .woocommerce-checkout table.shop_table td {
+    border: none !important
+}
+
+tr.cart_item {
+    background-color: #ececec
+}
+
+.cart-item-meta-data_url {
+    pointer-events: all !important;
+    word-break: break-all
+}
+
+#contact_formouter #root input.checkout-url {
+    height: 40px !important
+}
+
+.feature-eight-section .eight-feature-box .feature-icon8 {
+    position: relative
+}
+
+.app-eight-home section {
+    position: relative
+}
+
+.ei-service-icon-text .ei-service-icon {
+    position: absolute;
+    right: -50px
+}
+
+.eight-service-text.position-relative.appeight-headline.wow.fadeFromRight {
+    position: relative
+}
+
+.ei-service-icon-text.text-right.appeight-headline.pera-content {
+    position: relative
+}
+
+.element-40 .element-element.element-element-225558a .eight-service-section:before {
+    background-color: #eceef6 !important
+}
+
+.element-40 .element-element.element-element-225558a .eight-service-section:after {
+    background-color: #eceef6 !important
+}
+
+.show {
+    display: none !important
+}
+
+.collapse.show:first-child {
+    display: block !important
+}
+
+.collapse.in {
+    display: block !important
+}
+
+.panel-default>.panel-heading {
+    background-color: transparent !important
+}
+
+.ei-faq-section .ei-faq-queans .ei-faq.faq_bg {
+    padding: 0 !important;
+    background: #fff
+}
+
+.ei-faq-section .ei-faq-queans .ei-faq {
+    padding: 0 !important;
+    background: 0 0;
+    box-shadow: none
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    padding: 20px;
+    padding-bottom: 13px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    border: none !important
+}
+
+.ei-faq-section .ei-faq-queans .ei-faq .ei-faq-body {
+    margin-top: 0 !important;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: none !important
+}
+
+.ei-faq-section .ei-faq-queans .ei-faq {
+    padding: 0 !important;
+    border: none !important;
+    border-radius: 0 !important
+}
+
+.screen-reader-response {
+    display: none
+}
+
+.wc-custom-secure-sign:before {
+    display: block;
+    width: 20px;
+    height: 10px;
+    content: url(../../uploads/2021/02/locked-shield-w.svg);
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: absolute;
+    left: 14px;
+    top: 8px
+}
+
+.wc-custom-secure-sign:after {
+    content: "Secured with 256 bit SSL";
+    padding-left: 45px;
+    line-height: 1;
+    top: 5px;
+    font-size: 12px;
+    position: absolute;
+    font-weight: 600;
+    color: #fff
+}
+
+.wc-custom-secure-sign {
+    float: right;
+    top: -10px;
+    position: relative;
+    width: 138px;
+    height: 35px;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 20px;
+    background: #1a7909;
+    background: -webkit-linear-gradient(left, rgba(26, 121, 9, 1) 0%, rgba(120, 222, 0, 1) 100%);
+    background: linear-gradient(90deg, rgba(26, 121, 9, 1) 0%, rgba(120, 222, 0, 1) 100%)
+}
+
+.woocommerce-error {
+    border-top: none !important;
+    border-top-color: transparent !important
+}
+
+.woocommerce-notices-wrapper {
+    margin-top: 20px;
+    top: 0;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #e6e6e6
+}
+
+.woocommerce-error:before,
+.woocommerce-info:before,
+.woocommerce-message:before {
+    top: 0 !important;
+    left: -1px !important;
+    padding-left: 14px;
+    padding-top: 6px;
+    padding-right: 10px;
+    background: #790909;
+    background: -webkit-linear-gradient(left, rgba(121, 9, 9, 1) 0%, rgba(222, 0, 68, 1) 100%);
+    background: linear-gradient(90deg, rgba(121, 9, 9, 1) 0%, rgba(222, 0, 68, 1) 100%);
+    color: #fff !important;
+    height: 33px
+}
+
+.woocommerce-error li,
+.woocommerce-info li,
+.woocommerce-message li {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    padding-left: 50px !important;
+    padding-right: 5px !important
+}
+
+#add_payment_method #payment ul.payment_methods li img,
+.woocommerce-cart #payment ul.payment_methods li img,
+.woocommerce-checkout #payment ul.payment_methods li img {
+    max-height: 35px
+}
+
+.wpcf7-response-output.wpcf7-mail-sent-ok {
+    background: #ffffff38;
+    padding: 10px;
+    border-radius: 100px;
+    text-align: center;
+    margin-top: 15px;
+    color: #fff;
+    border-color: #fff
+}
+
+dt.variation-URL {
+    display: none !important
+}
+
+.variation-URL a.cart-item-meta-data_url {
+    background: -webkit-gradient(linear, left top, right top, from(#30d4ba), to(#4273f0)) !important;
+    padding: 5px;
+    border-radius: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+    font-size: 13px
+}
+
+.price-sticked {
+    z-index: 8 !important
+}
+
+.eg-fun-fact-section .eg-funfact-text {
+    max-width: 465px
+}
+
+.ei-footer-copyright {
+    margin-top: 0 !important
+}
+
+.woocommerce-error:before,
+.woocommerce-info:before,
+.woocommerce-message:before {
+    border-bottom-right-radius: 15px !important
+}
+
+.ei-newslatter-box.position-relative {
+    height: 300px !important
+}
+
+.eight-service-slide {
+    padding-right: 0 !important
+}
+
+.ei-service-icon.float-right.text-center {
+    right: 0 !important;
+    margin: auto;
+    margin-bottom: 25px
+}
+
+
+.eg-fun-fact-section .eg-funfact-text {
+    max-width: 465px;
+    float: right;
+    position: relative
+}
+
+.eg-fun-fact-section .eg-funfact-text .fun-fact-counter {
+    display: inline-block;
+    margin-top: 40px;
+    position: relative
+}
+
+.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form {
+    position: relative
+}
+
+.ei-feature-more {
+    display: none
+}
+
+.eg-fun-fact-section {
+    padding: 145px 0 0 !important
+}
+
+span.woocommerce-terms-and-conditions-checkbox-text {
+    margin-left: 20px
+}
+
+.place-order .mc4wp-checkbox.mc4wp-checkbox-woocommerce {
+    margin-left: 3px !important
+}
+
+.place-order .mc4wp-checkbox.mc4wp-checkbox-woocommerce p {
+    padding: 3px;
+    margin: 0 0 6px
+}
+
+.place-order .mc4wp-checkbox.mc4wp-checkbox-woocommerce span {
+    margin-left: 6px
+}
+
+body .woocommerce form .form-row .input-checkbox {
+    width: auto;
+    margin: 0 !important
+}
+
+.eight-feature-box.text-center.position-relative {
+    min-height: 385px
+}
+
+.ei-payment-mathod {
+    width: 78%;
+    padding: 5px;
+    background: 0 0
+}
+
+.profile-videos h4 {
+    font-size: 14px !important;
+    line-height: 1 !important
+}
+
+.alsoItem-data a,
+.alsoItem-data span.added {
+    color: #fff !important
+}
+
+.ei-footer-shape1.position-absolute {
+    display: none
+}
+
+.ei-footer-shape2.position-absolute {
+    display: none
+}
+
+.ei-footer-shape3.position-absolute {
+    display: none
+}
+
+ul.page-breadcrumb.text-center.text-white {
+    display: none
+}
+
+span.wpcf7-not-valid-tip {
+    margin-bottom: 5px;
+    display: block;
+    padding-left: 15px
+}
+
+.wpcf7-response-output {
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 10px
+}
+
+.ei-testimonial-section .ei-testimonial-img-text:before {
+    display: block !important
+}
+
+.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form p {
+    margin-top: 15px
+}
+
+.btn-style-four {
+    color: #fff !important
+}
+
+.ei-footer-copyright p,
+.ei-footer-copyright a {
+    color: #4229b2 !important
+}
+
+.mm-form {
+    position: relative
+}
+
+#web-form-1 .mm-form input[type=submit] {
+    position: absolute;
+    right: 10px;
+    top: 12px;
+    height: 48px;
+    margin-bottom: 0;
+    width: 162px;
+    border: none;
+    color: #fff;
+    border-radius: 30px;
+    text-align: center;
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(173deg, #ff03d0 0%, #4599fb 53%, #70fcff 99%);
+    background-image: -ms-linear-gradient(173deg, #ff03d0 0%, #4599fb 53%, #70fcff 99%)
+}
+
+#web-form-1 .web-response p {
+    padding: 5px;
+    border: 2px solid;
+    color: #fff;
+    border-radius: 30px;
+    text-align: center;
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(173deg, #ff03d0 0%, #4599fb 53%, #70fcff 99%);
+    background-image: -ms-linear-gradient(173deg, #ff03d0 0%, #4599fb 53%, #70fcff 99%)
+}
+
+.appilo-thanks-custom-msg p {
+    margin-bottom: 5px
+}
+
+.appilo-thanks-custom-msg ul li {
+    list-style: disc !important
+}
+
+.page-id-9 div.woocommerce form#order_review div#payment {
+    top: 70px
+}
+
+.page-id-9 div.woocommerce form#order_review {
+    margin-top: 20px
+}
+
+.page-id-1403 p {
+    font-size: 16px
+}
+
+.page-id-1403 .team-condition-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #eceef6;
+    color: #000;
+    border-radius: 20px;
+    padding: 25px;
+    line-height: 25px;
+    margin-bottom: 50px
+}
+
+.payment_method_paybling label img {
+    display: none
+}
+
+.eight-banner-section.ei-default-header {
+    padding: 100px 0 50px !important
+}
+
+.waveAnimation .waveBottom,
+.waveAnimation .waveMiddle,
+.waveAnimation .waveTop,
+.ei-newslatter-section .ei-newslatter-box .ei-news-vector1,
+.ei-newslatter-section .ei-newslatter-box .ei-news-vector2,
+.ei-faq-section .fq-shape-style2,
+.ei-faq-section .fq-shape-style3,
+.ei-faq-section .fq-shape-style5,
+.ei-faq-section .fq-shape-style7 img,
+.testimonial-floatingimg li {
+    animation: none !important
+}
+
+.ei-faq-section .fq-shape-style4 {
+    transform: translateX(50%) !important;
+    -webkit-transform: translateX(-50%) !important
+}
+
+span.ei-faq-shape.fq-shape-style1 {
+    transform: translate3d(50px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1) !important;
+    -webkit-transform: translate3d(50px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1) !important
+}
+
+.fn-shape.fn-shape-item2,
+.fn-shape.fn-shape-item3,
+.fn-shape.fn-shape-item4 {
+    transform: none !important
+}
+
+table.garantipospay-table tbody {
+    border: none
+}
+
+table.garantipospay-table p label {
+    text-align: left
+}
+
+table.garantipospay-table tbody input {
+    box-shadow: 0 0 5px #dfdfdf;
+    padding: 8px !important
+}
+
+input#garantipospay-card-cvc {
+    font-size: 14px !important
+}
+
+.payment_box.payment_method_garantipospay {
+    padding-bottom: 40px !important
+}
+
+.main-header-eight .appheader-content .navigation-eight {
+    float: right !important
+}
+
+.ei-scrollup {
+    display: none !important
+}
+
+.wpml-ls-statics-shortcode_actions.wpml-ls.wpml-ls-legacy-dropdown.js-wpml-ls-legacy-dropdown {
+    position: absolute;
+    right: 0 !important;
+    top: 10px !important;
+    width: 180px !important
+}
+
+.eisticky-menu-bg-overlay .wpml-ls-statics-shortcode_actions.wpml-ls.wpml-ls-legacy-dropdown.js-wpml-ls-legacy-dropdown {
+    top: 22px
+}
+
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu {
+    border: 0 solid
+}
+
+.wpml-ls-legacy-dropdown a {
+    display: initial;
+    border: none;
+    background-color: transparent
+}
+
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover>a,
+.wpml-ls-legacy-dropdown a:focus,
+.wpml-ls-legacy-dropdown a:hover {
+    border: none;
+    background-color: transparent
+}
+
+.wpml-ls-legacy-dropdown a.wpml-ls-item-toggle:after {
+    display: none
+}
+
+.wpml-ls-legacy-dropdown a.wpml-ls-item-toggle {
+    position: relative;
+    padding-right: calc(-12px + 1.4em)
+}
+
+#menu-main-menu {
+    margin-right: 110px
+}
+
+.wpml-ls-legacy-dropdown ul,
+.wpml-ls-legacy-dropdown ul li {
+    text-align: right
+}
+
+@media only screen and (min-width:1441px) {
+    .eight-service-section .eight-service-slide {
+        width: 60% !important
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .ei-payment-mathod {
+        width: 75%
+    }
+}
+
+@media only screen and (min-width:1199px) and (max-width:1440px) {
+    .ei-service-icon-text.text-right.appeight-headline.pera-content {
+        max-width: 430px
+    }
+}
+
+@media screen and (max-width:1198px) {
+    .ei-payment-mathod {
+        width: 30%
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1198px) {
+    .eight-service-section .eight-service-slide {
+        right: 90px
+    }
+
+    .ei-service-icon.float-right.text-center {
+        right: -36px !important
+    }
+
+    .eight-service-section:after {
+        right: -131px !important
+    }
+
+    .ei-payment-mathod {
+        width: 30%
+    }
+}
+
+@media screen and (max-width:996px) {
+    .ei-testimonial-section .ei-testimonial-img-text .ei-testimonial-img {
+        position: relative !important
+    }
+
+    #landscape_mod_fix .eight-service-text.position-relative.appeight-headline.wow.fadeFromRight {
+        display: none
+    }
+
+    .ei-newslatter-section .ei-newslatter-contnet {
+        margin: auto
+    }
+
+    .ei-newslatter-section .ei-newslatter-contnet {
+        margin-left: auto !important
+    }
+
+    .ei-payment-mathod {
+        width: 30%
+    }
+}
+
+@media screen and (max-width:991px) {
+    .appi-ei-mobile_menu_content .appi-ei-mobile-main-navigation {
+        position: relative
+    }
+
+    .wpml-ls-statics-shortcode_actions.wpml-ls.wpml-ls-legacy-dropdown.js-wpml-ls-legacy-dropdown {
+        bottom: -25px;
+        width: 100% !important;
+        right: unset;
+        top: unset !important
+    }
+
+    .wpml-ls-legacy-dropdown .wpml-ls-item {
+        width: 100%
+    }
+
+    .wpml-ls-legacy-dropdown ul li a {
+        width: 100%;
+        text-align: left;
+        display: block;
+        padding-left: 30px
+    }
+
+    .wpml-ls-legacy-dropdown .wpml-ls-sub-menu {
+        top: 103%;
+        right: 0;
+        left: 30px
+    }
+
+    .ei-payment-mathod {
+        width: 30%
+    }
+}
+
+@media only screen and(max-width:768px) {
+    .eight-service-section .eight-service-slide {
+        right: 0;
+        margin: auto
+    }
+
+    .ei-service-icon.float-right.text-center {
+        right: 0 !important;
+        position: relative !important
+    }
+
+    .ei-service-icon-text.text-right.appeight-headline.pera-content {
+        max-width: 100% !important
+    }
+
+    .ei-service-icon-text .ei-service-text {
+        max-width: 100% !important;
+        margin-right: 0 !important;
+        text-align: center
+    }
+
+    .ei-footer-copyright {
+        margin-top: -59px !important
+    }
+}
+
+@media screen and (max-width:767px) {
+
+    .page-id-9 div.woocommerce form#order_review,
+    div#order_review {
+        width: 100% !important
+    }
+
+    div#payment {
+        max-width: 100% !important;
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important
+    }
+
+    .woocommerce-order-received .woocommerce .woocommerce-order ul.order_details {
+        margin: 3em 0
+    }
+
+    .woocommerce-order-received .woocommerce .woocommerce-order ul.order_details li {
+        float: unset;
+        border-bottom: 1px dashed #d3ced2;
+        border-right: unset;
+        margin-bottom: 20px
+    }
+
+
+    .woocommerce-order-received .woocommerce td.woocommerce-table__product-name.product-name {
+        width: 75% !important
+    }
+
+    .woocommerce-order-received .woocommerce td.woocommerce-table__product-total.product-total {
+        width: 25% !important
+    }
+
+    .woocommerce-order-received .woocommercea a {
+        word-break: break-all
+    }
+
+    .ei-footer-section {
+        min-height: 280px !important
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:768px) {
+    .eg-fun-fact-mockup.wow.fadeFromLeft.animated.animated.animated.animated.animated.animated.animated.animated.animated.animated.animated.animated.animated {
+        position: relative !important;
+        left: -64px
+    }
+
+    .eg-fun-fact-section .eg-fun-fact-mockup {
+        left: -42px !important;
+        position: relative !important
+    }
+}
+
+@media screen and (max-width:700px) {
+    .ei-payment-mathod {
+        width: 35%
+    }
+
+    .ei-footer-widget .ei-payment-mathod {
+        margin-bottom: 40px
+    }
+}
+
+@media screen and (min-width:576px) {
+    .ei-footer-copyright-content {
+        margin-top: -51px
+    }
+
+    .ei-newslatter-box.position-relative {
+        height: 333px
+    }
+
+    .ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form .nws-button {
+        position: absolute
+    }
+
+    .ei-service-icon.float-right.text-center {
+        right: 0
+    }
+
+    .ei-testimonial-section .ei-testimonial-img-text .ei-testimonial-img {
+        position: absolute !important
+    }
+
+    .ei-testimonial-text {
+        padding-left: 160px
+    }
+}
+
+@media screen and (max-width:576px) {
+    .ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form .nws-button button {
+        width: 100% !important
+    }
+
+    .ei-payment-mathod {
+        width: 51%
+    }
+
+    .ei-footer-widget .ei-payment-mathod {
+        margin-bottom: 30px
+    }
+}
+
+@media screen and (max-width:575px) {
+    #web-form-1 .mm-form input[type=submit] {
+        position: relative;
+        right: unset;
+        top: unset;
+        width: 100%
+    }
+
+    .ei-payment-mathod {
+        width: 51%
+    }
+
+    .ei-footer-widget .ei-payment-mathod {
+        margin: 0
+    }
+}
+
+@media screen and (max-width:576px) and (min-width:320px) {
+    .ei-testimonial-text {
+        padding-left: 30px !important;
+        padding-top: 30px !important
+    }
+
+    .ei-testimonial-section .ei-testimonial-img-text {
+        border-radius: 20px !important
+    }
+
+    .ei-service-icon-text .ei-service-text {
+        margin-right: 120px
+    }
+}
+
+@media screen and (max-width:500px) {
+    .inputGroup label {
+        padding: 20px 20px 20px 80px !important
+    }
+}
+
+@media screen and (max-width:420px) {
+    .ei-footer-widget {
+        margin: 0
+    }
+
+    .ei-footer-widget .ei-payment-mathod {
+        margin: 0
+    }
+
+    .ei-payment-mathod {
+        width: 71%
+    }
+
+    .ei-footer-copyright .ei-copyright-menu ul {
+        display: block !important
+    }
+
+    .ei-footer-copyright .ei-copyright-menu li {
+        margin-left: 35px;
+        margin-bottom: 20px
+    }
+
+    .ei-footer-section {
+        padding-bottom: 90px !important
+    }
+}
+
+@media screen and (max-width:407px) {
+    .ei-newslatter-box.position-relative {
+        height: 360px !important
+    }
+}
+
+@media screen and (max-width:320px) {
+    .ei-testimonial-text {
+        padding-left: 0 !important
+    }
+
+    .ei-payment-mathod {
+        width: 90%
+    }
+}
