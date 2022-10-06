@@ -51,6 +51,20 @@ body {
   --preset--font-size--huge: 36px;
 }
 
+/* ----------- */
+.embed-responsive iframe#launcher-frame html,
+.embed-responsive iframe#launcher-frame {
+  height: 100vh !important;
+  min-width: 100% !important;
+  margin-top: 91vh !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  position: fixed !important;
+  bottom: 0 !important;
+  right: 0 !important;
+}
+
+
 .has-black-color {
   color: var(--preset--color--black) !important;
 }
