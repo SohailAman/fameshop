@@ -52,6 +52,11 @@ body {
 }
 
 /* ----------- */
+.appheader-content .site-logo img,
+.widget_aboutwidget_widget .ei-footer-logo img {
+  height: 9vh !important;
+}
+
 .embed-responsive iframe#launcher-frame html,
 .embed-responsive iframe#launcher-frame {
   height: 100vh !important;
